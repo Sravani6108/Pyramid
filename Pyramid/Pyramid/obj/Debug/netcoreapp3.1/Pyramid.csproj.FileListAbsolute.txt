@@ -1,0 +1,13 @@
+C:\Users\Balakrishna\Desktop\SampleProjects\Pyramid\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.exe
+C:\Users\Balakrishna\Desktop\SampleProjects\Pyramid\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.deps.json
+C:\Users\Balakrishna\Desktop\SampleProjects\Pyramid\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.runtimeconfig.json
+C:\Users\Balakrishna\Desktop\SampleProjects\Pyramid\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.runtimeconfig.dev.json
+C:\Users\Balakrishna\Desktop\SampleProjects\Pyramid\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.dll
+C:\Users\Balakrishna\Desktop\SampleProjects\Pyramid\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.pdb
+C:\Users\Balakrishna\Desktop\SampleProjects\Pyramid\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.csprojAssemblyReference.cache
+C:\Users\Balakrishna\Desktop\SampleProjects\Pyramid\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.AssemblyInfoInputs.cache
+C:\Users\Balakrishna\Desktop\SampleProjects\Pyramid\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.AssemblyInfo.cs
+C:\Users\Balakrishna\Desktop\SampleProjects\Pyramid\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\Balakrishna\Desktop\SampleProjects\Pyramid\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.dll
+C:\Users\Balakrishna\Desktop\SampleProjects\Pyramid\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.pdb
+C:\Users\Balakrishna\Desktop\SampleProjects\Pyramid\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.genruntimeconfig.cache
